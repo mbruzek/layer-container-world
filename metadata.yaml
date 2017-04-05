@@ -1,0 +1,11 @@
+name: containerworld
+summary: Deploy an Ubuntu system for our classroom session at ContainerWorld
+maintainers:
+    - Matt Bruzek <Matthew.Bruzek@canonical.com>
+description: |
+  This charm deploys a Ubuntu system for ContainerWorld.
+subordinate: false
+tags:
+  - classroom
+series:
+  - xenial
